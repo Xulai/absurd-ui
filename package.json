@@ -1,33 +1,33 @@
 {
-  "name": "absurd-ui",
-  "version": "0.0.1",
-  "description": "Broccoli-Absurd filter to compile one to one files from a absurd supported format to json, html or css",
-  "homepage": "https://github.com/xulai/absurd-ui",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/xulai/absurd-ui.git"
-  },
-  "author": {
-    "name": "Daniel Beauchamp",
-    "email": "danielbeauchamp@crimasi.com",
-    "url": "https://crimasi.com/danielbeauchamp"
-  },
-  "main": "./index.js",
-  "keywords": [
-    "ui",
-    "absurd-mixin",
-    "absurd-plugin",
-    "absurd-component",
-    "absurd",
-    "absurdjs"
-  ],
-  "scripts": {
-    "test": "grunt test"
-  },
-  "dependencies": {
-    "absurd": "*"
-  },
-  "devDependencies": {
+	"name": "absurd-ui",
+	"version": "0.0.1",
+	"description": "Broccoli-Absurd filter to compile one to one files from a absurd supported format to json, html or css",
+	"homepage": "https://github.com/xulai/absurd-ui",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/xulai/absurd-ui.git"
+	},
+	"author": {
+		"name": "Daniel Beauchamp",
+		"email": "danielbeauchamp@crimasi.com",
+		"url": "https://crimasi.com/danielbeauchamp"
+	},
+	"main": "./index.js",
+	"keywords": [
+		"ui",
+		"absurd-mixin",
+		"absurd-plugin",
+		"absurd-component",
+		"absurd",
+		"absurdjs"
+	],
+	"scripts": {
+		"test": "grunt test"
+	},
+	"dependencies": {
+		"absurd": "*"
+	},
+	"devDependencies": {
 		"grunt": "~0.4.4",
 		"grunt-contrib-watch": "~0.6.1",
 		"grunt-broccoli": "~0.3.0",
@@ -42,10 +42,10 @@
 		"rimraf": "~2.2.6",
 		"should": "3.1.2",
   },
-  "licenses": [
-    {
-      "type": "ISC",
-      "url": "https://raw.github.com/xulai/absurd-ui/master/LICENSE.md"
-    }
-  ]
+	"licenses": [
+		{
+			"type": "ISC",
+			"url": "https://raw.github.com/xulai/absurd-ui/master/LICENSE.md"
+		}
+	]
 }
